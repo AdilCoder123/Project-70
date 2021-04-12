@@ -117,7 +117,7 @@ html
     color: #ff7700;
 }
 
-#navbar-header
+.nav navbar-nav
 
 {
    position: fixed; /* Set the navbar to fixed position */
